@@ -1,0 +1,36 @@
+header{
+    border: 1px solid black;
+    text-align: center;
+    height: 150px;
+    background-color: rgb(243, 230, 215);
+}
+nav{
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 0;
+   background-color: rgb(247, 243, 238);
+}
+nav ul{
+    text-align: center;
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+    padding: 0 1%;
+   
+}
+nav li a{
+    text-decoration-line: none;
+}
+main{
+    background-color: rgb(238, 229, 217);
+    text-align: center;
+    height: 250px;
+    border: 1px solid black
+}
+footer{
+    background-color: rgb(241, 237, 230);
+    text-align: lift;
+    height: 150px;
+    border: 1px solid black
+}
